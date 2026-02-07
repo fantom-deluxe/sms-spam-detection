@@ -19,6 +19,7 @@ The final implementation prioritizes simplicity, interpretability, and precision
 - **File:** `spam.csv`  
 - **Description:** Contains SMS messages labeled as spam or ham  
 - **Target Column:** Indicates whether a message is spam (1) or ham (0)
+- **Source** <https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset>
 
 ---
 
